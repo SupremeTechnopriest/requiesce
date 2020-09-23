@@ -1,4 +1,4 @@
-import requiest from '../src/index.js'
+import requiesce from '../src/index.js'
 
 const url = 'https://api.edgemesh.com/org/:id/staff/:accountId'
 const body = {
@@ -7,4 +7,4 @@ const body = {
   permission: 'READ'
 }
 
-console.log(requiest(url, body))
+console.log(requiesce(url, body))

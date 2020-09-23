@@ -1,5 +1,5 @@
 {
-  "name": "requiest",
+  "name": "requiesce",
   "version": "0.0.1",
   "description": "Request part maker for lazy developers.",
   "main": "src/index.js",
